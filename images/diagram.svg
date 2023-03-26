@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="456px" preserveAspectRatio="none" style="width:476px;height:456px;background:#FFFFFF;" version="1.1" viewBox="0 0 476 456" width="476px" zoomAndPan="magnify"><defs/><g><!--MD5=[9eecb807d8a7c1ba44cb916f191401d3]
+entity Guest--><g id="elem_Guest"><ellipse cx="318" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M318,22 L318,49 M305,30 L331,30 M318,49 L305,64 M318,49 L331,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="299" y="80.0332">Guest</text></g><!--MD5=[fee662a292a0353a69bd162820bae93b]
+entity User--><g id="elem_User"><ellipse cx="198" cy="152" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M198,160 L198,187 M185,168 L211,168 M198,187 L185,202 M198,187 L211,202 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="183.5" y="218.0332">User</text></g><!--MD5=[97ab183161fd5d1db7fba7485cf76add]
+entity Admin--><g id="elem_Admin"><ellipse cx="136" cy="290" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M136,298 L136,325 M123,306 L149,306 M136,325 L123,340 M136,325 L149,340 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="39" x="116.5" y="356.0332">Admin</text></g><g id="elem_REGISTRATION"><ellipse cx="421.0928" cy="44.4872" fill="#F1F1F1" rx="49.0928" ry="15.4872" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="392.1382" y="48.8807">Register</text></g><g id="elem_LOGGING_IN"><ellipse cx="223.7696" cy="44.4517" fill="#F1F1F1" rx="39.7696" ry="15.4517" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="203.7696" y="48.1802">Log-in</text></g><g id="elem_WEEK_CREATION"><ellipse cx="76.8567" cy="182.5713" fill="#F1F1F1" rx="70.8567" ry="16.5713" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="28.8567" y="187.0879">Add new week</text></g><g id="elem_WEEK_DELETION"><ellipse cx="78.0039" cy="44.5008" fill="#F1F1F1" rx="70.5039" ry="16.5008" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="30.5039" y="49.0174">Delete a week</text></g><g id="elem_ADD_TASK"><ellipse cx="259.7688" cy="320.6538" fill="#F1F1F1" rx="68.7688" ry="16.1538" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="214.7688" y="325.1704">Add new task</text></g><g id="elem_DELETE_TASK"><ellipse cx="315.9277" cy="182.5855" fill="#F1F1F1" rx="68.4277" ry="16.0855" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="271.4277" y="187.1021">Delete a task</text></g><g id="elem_BAN_USER"><ellipse cx="136.0419" cy="435.0159" fill="#F1F1F1" rx="52.0419" ry="15.5159" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="104.5419" y="439.5325">Ban user</text></g><!--MD5=[e0c929d231fd33eca3b84ae786691a64]
+link Guest to User--><g id="link_Guest_User"><path d="M298.92,66.36 C280.97,86.08 253.41,116.58 230,143.5 C228.56,145.16 227.08,146.87 225.6,148.59 " fill="none" id="Guest-to-User" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="230.81,153.27,212.54,164,220.13,144.22,230.81,153.27" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c5f2c86fa5945766c5ed6f7f4474cc78]
+link User to Admin--><g id="link_User_Admin"><path d="M183.46,215.39 C177.03,229.49 169.27,246.52 161.9,262.68 " fill="none" id="User-to-Admin" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="168.2,265.74,153.54,281.03,155.46,259.93,168.2,265.74" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9405b5d0fb49e4b4ba996a659fd67bc6]
+link Guest to REGISTRATION--><g id="link_Guest_REGISTRATION"><path d="M337.31,44.5 C347.15,44.5 356.98,44.5 366.82,44.5 " fill="none" id="Guest-to-REGISTRATION" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="371.96,44.5,362.96,40.5,366.96,44.5,362.96,48.5,371.96,44.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[19e0718a2bf16ed1be4ef5aac5c7658f]
+reverse link LOGGING_IN to Guest--><g id="link_LOGGING_IN_Guest"><path d="M269.16,44.5 C278.97,44.5 288.79,44.5 298.6,44.5 " fill="none" id="LOGGING_IN-backto-Guest" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="264.02,44.5,273.02,48.5,269.02,44.5,273.02,40.5,264.02,44.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[fb82920250a55a89d82c62757fa98c1d]
+reverse link WEEK_CREATION to User--><g id="link_WEEK_CREATION_User"><path d="M153.55,182.5 C163.46,182.5 173.36,182.5 183.27,182.5 " fill="none" id="WEEK_CREATION-backto-User" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="148.37,182.5,157.37,186.5,153.37,182.5,157.37,178.5,148.37,182.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7ae6e122c4592c0ac09f22b86e6669ae]
+reverse link WEEK_DELETION to User--><g id="link_WEEK_DELETION_User"><path d="M95.61,64.75 C113.51,84.39 141.94,115.84 166,143.5 C171.77,150.14 178.03,157.52 183.46,164 " fill="none" id="WEEK_DELETION-backto-User" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="92.18,60.98,95.2851,70.3266,95.5476,64.6758,101.1984,64.9384,92.18,60.98" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[83bdea408410b824d31d6423b1d2258a]
+link User to ADD_TASK--><g id="link_User_ADD_TASK"><path d="M212.54,215.39 C224.45,241.52 240.93,277.67 251.01,299.77 " fill="none" id="User-to-ADD_TASK" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="253.18,304.54,253.0972,294.6915,251.111,299.9882,245.8143,298.0019,253.18,304.54" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f7659fd4c1244b57912cc10efdb34706]
+link User to DELETE_TASK--><g id="link_User_DELETE_TASK"><path d="M212.75,182.5 C222.6,182.5 232.44,182.5 242.29,182.5 " fill="none" id="User-to-DELETE_TASK" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="247.44,182.5,238.44,178.5,242.44,182.5,238.44,186.5,247.44,182.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ca1b79226457627e988887e713bfabcc]
+link Admin to BAN_USER--><g id="link_Admin_BAN_USER"><path d="M136,359.59 C136,377.87 136,399.02 136,414.08 " fill="none" id="Admin-to-BAN_USER" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="136,419.34,140,410.34,136,414.34,132,410.34,136,419.34" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[07c607daefbf9cff6b6cf3ba36776520]
+@startuml
+actor Guest
+actor User
+actor Admin
+usecase "Register" as REGISTRATION
+usecase "Log-in" as LOGGING_IN
+usecase "Add new week" as WEEK_CREATION
+usecase "Delete a week" as WEEK_DELETION
+usecase "Add new task" as ADD_TASK
+usecase "Delete a task" as DELETE_TASK
+usecase "Ban user" as BAN_USER
+
+Guest - -|> User
+User -d-|> Admin
+
+Guest -> REGISTRATION
+Guest -l-> LOGGING_IN
+User -l-> WEEK_CREATION
+User -u-> WEEK_DELETION
+User - -> ADD_TASK
+User -> DELETE_TASK
+Admin - -> BAN_USER
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 EEST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

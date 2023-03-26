@@ -1,0 +1,24 @@
+@startuml
+actor Guest
+actor User
+actor Admin
+usecase "Register" as REGISTRATION
+usecase "Log-in" as LOGGING_IN
+usecase "Add new week" as WEEK_CREATION
+usecase "Delete a week" as WEEK_DELETION
+usecase "Add new task" as ADD_TASK
+usecase "Delete a task" as DELETE_TASK
+usecase "Ban user" as BAN_USER
+
+Guest --|> User
+User -d-|> Admin
+
+Guest -> REGISTRATION
+Guest -l-> LOGGING_IN
+User -l-> WEEK_CREATION
+User -u-> WEEK_DELETION
+User --> ADD_TASK
+User -> DELETE_TASK
+Admin --> BAN_USER
+
+@enduml
